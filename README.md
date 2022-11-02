@@ -17,4 +17,4 @@ Faça um fork deste repositorio e realize as seguintes atividades:
 - [ ] Implemente a função buscarElementoArvore Arvore que deve verificar se um elemento está contido na arvore usando recursividade
 
 ## Bruno da Silva Santos
-##bruno.santos313@fatec.sp.gov.br
+## bruno.santos313@fatec.sp.gov.br
